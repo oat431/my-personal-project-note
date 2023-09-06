@@ -1,5 +1,8 @@
 # my-personal-project-note
-just my personal project journey
+it will have 
+- sub folder each project
+- each folder will have design note
+- each folder will link to github repository
 
 something like
 - remake domed project from my friend
