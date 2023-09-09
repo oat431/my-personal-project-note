@@ -5,7 +5,9 @@ it will have
 - each folder will link to github repository
 
 something like
-- remake domed project from my friend
+- remake Domed the senior project from my friend project from my friend
+- remake Pharmacy LINE chatbot the senior project from my friend
+- remake Onemeasure the senior project from my friend
 - cloning the sha-bu ordering system
 - employee course mangement system
 - item ordering system
