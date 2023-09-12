@@ -10,6 +10,7 @@ something like
   - remake Pharmacy LINE chatbot (already got permission)
   - remake Onemeasure (already got permission)
   - remake Learn to earn (already got permission)
+  - remake BiRDER (already got permission)
 - personal practice project
   - cloning the sha-bu ordering system
   - employee course mangement system
