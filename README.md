@@ -2,7 +2,7 @@
 it will have 
 - sub folder each project
 - each folder will have design note
-- each folder will link to github repository
+- each folder will contain links to its github repository
 
 something like
 - remake the my friend's senior project
