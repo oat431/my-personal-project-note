@@ -14,10 +14,12 @@ something like
   - remake Bearlance (already got permission)
 - personal practice project
   - cloning the sha-bu ordering system
-  - employee course mangement system
-  - item ordering system
-  - community club system
-  - Mental health check list
-  - Membership system
-  - my own open authentication system
+  - employee course mangement application
+  - in houseitem ordering application
+  - local community club application 
+  - online mental health check-list
+  - membership service 
+  - buddy budder application 
+  - my own open authentication
+  - my own API gate way
   - and so on ...
