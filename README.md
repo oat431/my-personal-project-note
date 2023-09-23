@@ -23,3 +23,8 @@ something like
   - my own open authentication
   - my own API gate way
   - and so on ...
+
+milestone
+1. API gateway
+2. OAuth
+3. ...
