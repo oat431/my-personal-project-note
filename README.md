@@ -16,7 +16,8 @@ something like
   - cloning the sha-bu ordering system
   - employee course mangement application
   - in houseitem ordering application
-  - local community club application 
+  - local community club application
+  - High School Student Grade Planning 
   - online mental health check-list
   - membership service 
   - buddy budder application 
