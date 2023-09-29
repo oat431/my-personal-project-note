@@ -34,6 +34,7 @@ tech stack
 - Spring boot (Java)
 - Gin (Golang)
 - RDBMS, NoSQL, Graph, Time series
+- KafKa, GraphQL
 - Vue3, React
 - Docker, K8s
 - Github, Github Project, Github Action
