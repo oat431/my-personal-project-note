@@ -12,3 +12,4 @@ codename : kor-ma-di-wa
 
 ## My Experiment So far
 - try my first api gate way: [repo](https://github.com/oat431/try-api-gateway)
+- connect to first rest api service : [repo](https://github.com/oat431/spb3-demo-rest-api)
