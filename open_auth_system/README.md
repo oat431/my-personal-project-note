@@ -6,7 +6,7 @@ codename: Oh-Jannn
 - Oh-Jannn Oauth Server
 
 ## Purpose
-- it is the main entry for other application in Panomete project group
+- it is the main authentication system for other future Panomete project group
 
 ## Reference to read further
 - [simple diagram 1](https://blog.doubleslash.de/wp/wp-content/uploads/2022/08/Authorization.png)
