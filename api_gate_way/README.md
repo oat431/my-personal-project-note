@@ -3,7 +3,7 @@
 codename : kor-ma-di-wa
 
 ## Project Description
-... API gate way ? I guess
+- it is a main gate way for Panomete Frontend Project to call to other Backend Service in panomete project group
 
 ## Reference
 - [API gate way example 1](https://www.solo.io/topics/api-gateway/api-gateway-spring-boot/)
