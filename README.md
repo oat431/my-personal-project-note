@@ -12,6 +12,7 @@ something like
   - remake Learn to earn (already got permission)
   - remake BiRDER (already got permission)
   - remake Bearlance (already got permission)
+  - remake PrompLearn (alredy got permission)
 - personal practice project
   - cloning the sha-bu ordering system
   - employee course mangement application
@@ -28,7 +29,9 @@ something like
 milestone
 1. Implement the API gateway
 2. Implement the OAuth System
-3. (First my firend's senior project list) Implement Bearlance project
+3. (Implement the first project from my firend's senior project list) Implement Bearlance project
+4. Implement PrompLearn
+5. Implement Buddy Budder Application
 
 tech stack
 - Spring boot (Java)
