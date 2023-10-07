@@ -26,9 +26,9 @@ something like
   - and so on ...
 
 milestone
-1. API gateway
-2. OAuth
-3. ...
+1. Implement the API gateway
+2. Implement the OAuth System
+3. (First my firend's senior project list) Implement Bearlance project
 
 tech stack
 - Spring boot (Java)
