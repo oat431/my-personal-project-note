@@ -31,7 +31,14 @@ milestone
 2. Implement the OAuth System
 3. (Implement the first project from my firend's senior project list) Implement Bearlance project
 4. Implement PrompLearn
-5. Implement Buddy Budder Application
+5. Implement Learn To Earn
+6. Implement Buddy Budder Application
+
+on experiment new framework list
+- BiRDER
+- Domed
+- Pharmacy LINE Chatbot
+- Onemeasure
 
 tech stack
 - Spring boot (Java)
