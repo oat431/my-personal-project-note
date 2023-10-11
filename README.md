@@ -34,7 +34,7 @@ milestone
 5. Implement Learn To Earn
 6. Implement Buddy Budder Application
 
-on experiment new framework list
+for trying new framework, experiment, or proof of concept
 - BiRDER
 - Domed
 - Pharmacy LINE Chatbot
