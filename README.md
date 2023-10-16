@@ -28,11 +28,12 @@ something like
 
 milestone
 1. Implement the API gateway
-2. Implement the OAuth System
-3. (Implement the first project from my firend's senior project list) Implement Bearlance project
-4. Implement PrompLearn
-5. Implement Learn To Earn
-6. Implement Buddy Budder Application
+2. Implement the service discovery
+3. Implement the OAuth System
+4. (Implement the first project from my firend's senior project list) Implement Bearlance project
+5. Implement PrompLearn
+6. Implement Learn To Earn
+7. Implement Buddy Budder Application
 
 for trying new framework, experiment, or proof of concept
 - BiRDER
