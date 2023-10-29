@@ -30,10 +30,12 @@ milestone
 1. Implement the API gateway
 2. Implement the service discovery
 3. Implement the OAuth System
-4. (Implement the first project from my firend's senior project list) Implement Bearlance project
-5. Implement PrompLearn
-6. Implement Learn To Earn
-7. Implement Buddy Budder Application
+4. Understanding Load Balancer
+5. Understanding Cloud service AWS
+6. (Implement the first project from my firend's senior project list) Implement Bearlance project
+7. Implement PrompLearn
+8. Implement Learn To Earn
+9. Implement Buddy Budder Application
 
 for trying new framework, experiment, or proof of concept
 - BiRDER
