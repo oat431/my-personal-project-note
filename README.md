@@ -32,10 +32,11 @@ milestone
 3. Implement the OAuth System
 4. Understanding Load Balancer
 5. Understanding Cloud service AWS
-6. (Implement the first project from my firend's senior project list) Implement Bearlance project
-7. Implement PrompLearn
-8. Implement Learn To Earn
-9. Implement Buddy Budder Application
+6. Unserstanding DBMS
+7. (Implement the first project from my firend's senior project list) Implement Bearlance project
+8. Implement PrompLearn
+9. Implement Learn To Earn
+10. Implement Buddy Budder Application
 
 for trying new framework, experiment, or proof of concept
 - BiRDER
