@@ -50,7 +50,7 @@ tech stack
 - RDBMS, NoSQL, Graph, Time series
 - KafKa, GraphQL
 - Vue3, React
-- Docker, K8s
+- Docker, Kubernetes
 - Github, Github Project, Github Action
 - AWS (S3, EC2, EKS, etc.)
 - Nginx
